@@ -1,15 +1,15 @@
 {
-  "main.css": "/react-gh-pages/static/css/main.f72ec157.chunk.css",
-  "main.js": "/react-gh-pages/static/js/main.dbb09022.chunk.js",
-  "main.js.map": "/react-gh-pages/static/js/main.dbb09022.chunk.js.map",
-  "static/js/1.84cf9974.chunk.js": "/react-gh-pages/static/js/1.84cf9974.chunk.js",
-  "static/js/1.84cf9974.chunk.js.map": "/react-gh-pages/static/js/1.84cf9974.chunk.js.map",
-  "static/js/2.586896f9.chunk.js": "/react-gh-pages/static/js/2.586896f9.chunk.js",
-  "static/js/2.586896f9.chunk.js.map": "/react-gh-pages/static/js/2.586896f9.chunk.js.map",
-  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.6e382072.js",
-  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.6e382072.js.map",
-  "static/css/main.f72ec157.chunk.css.map": "/react-gh-pages/static/css/main.f72ec157.chunk.css.map",
-  "index.html": "/react-gh-pages/index.html",
-  "precache-manifest.8b2067afc66d4fcbce546248c152d547.js": "/react-gh-pages/precache-manifest.8b2067afc66d4fcbce546248c152d547.js",
-  "service-worker.js": "/react-gh-pages/service-worker.js"
+  "main.css": "/Lab7_react/static/css/main.f72ec157.chunk.css",
+  "main.js": "/Lab7_react/static/js/main.dbb09022.chunk.js",
+  "main.js.map": "/Lab7_react/static/js/main.dbb09022.chunk.js.map",
+  "static/js/1.84cf9974.chunk.js": "/Lab7_react/static/js/1.84cf9974.chunk.js",
+  "static/js/1.84cf9974.chunk.js.map": "/Lab7_react/static/js/1.84cf9974.chunk.js.map",
+  "static/js/2.586896f9.chunk.js": "/Lab7_react/static/js/2.586896f9.chunk.js",
+  "static/js/2.586896f9.chunk.js.map": "/Lab7_react/static/js/2.586896f9.chunk.js.map",
+  "runtime~main.js": "/Lab7_react/static/js/runtime~main.d0ee070d.js",
+  "runtime~main.js.map": "/Lab7_react/static/js/runtime~main.d0ee070d.js.map",
+  "static/css/main.f72ec157.chunk.css.map": "/Lab7_react/static/css/main.f72ec157.chunk.css.map",
+  "index.html": "/Lab7_react/index.html",
+  "precache-manifest.fc60647c79ec432a46ee389dec8124c6.js": "/Lab7_react/precache-manifest.fc60647c79ec432a46ee389dec8124c6.js",
+  "service-worker.js": "/Lab7_react/service-worker.js"
 }
